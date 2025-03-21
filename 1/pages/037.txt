@@ -1,0 +1,956 @@
+Formula One - Wikidata
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+		Navigation
+	
+Main pageCommunity portalProject chatCreate a new ItemRecent changesRandom ItemQuery ServiceNearbyHelpSpecial pages
+		Lexicographical data
+	
+Create a new LexemeRecent changesRandom Lexeme
+Search
+Search
+English
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate Create account Log in
+		Pages for logged out editors learn more
+ContributionsTalk
+Formula One
+(Q1968)
+ItemDiscussion
+English
+ReadView history
+Tools
+Tools
+move to sidebar
+hide
+		Actions
+	
+ReadView history
+		General
+	
+What links hereRelated changesPermanent linkPage informationConcept URICite this pageGet shortened URLDownload QR code
+		Print/export
+	
+Create a bookDownload as PDFPrintable version
+		In other projects
+	
+Appearance
+move to sidebar
+hide
+From Wikidata
+motorsport championship held worldwideFIA Formula One World ChampionshipF1Formula 1The Formula One race team
+Language
+Label
+Description
+Also known as
+default for all languages
+No label defined
+–
+English
+Formula One
+motorsport championship held worldwide
+FIA Formula One World ChampionshipF1Formula 1The Formula One race team
+Statements
+instance of
+automobile racing series
+0 references
+world championship
+0 references
+sport
+0 references
+organization
+0 references
+inception
+1950
+0 references
+logo image
+F1.svg120 × 30; 2 KB
+0 references
+image
+2018 Austrian Grand Prix turn 1 (43147259711).jpg3,762 × 2,508; 6 MB
+1 reference
+imported from Wikimedia project
+Dutch Wikipedia
+short name
+F1 (multiple languages)
+0 references
+chief executive officer
+Stefano Domenicali
+start time
+1 January 2021
+1 reference
+official website
+https://corp.formula1.com/team/
+significant event
+1950 Formula One season
+0 references
+1951 Formula One season
+0 references
+1952 Formula One season
+0 references
+1953 Formula One season
+0 references
+1954 Formula One season
+0 references
+1955 Formula One season
+0 references
+1956 Formula One season
+0 references
+1957 Formula One season
+0 references
+1958 Formula One season
+0 references
+1959 Formula One season
+0 references
+1960 Formula One season
+0 references
+1961 Formula One season
+0 references
+1962 Formula One season
+0 references
+1963 Formula One season
+0 references
+1964 Formula One season
+0 references
+1965 Formula One season
+0 references
+1966 Formula One season
+0 references
+1967 Formula One season
+0 references
+1968 Formula One season
+0 references
+1969 Formula One season
+0 references
+1970 Formula One season
+0 references
+1971 Formula One season
+0 references
+1972 Formula One season
+0 references
+1973 Formula One season
+0 references
+1974 Formula One season
+0 references
+1975 Formula One season
+0 references
+1976 Formula One season
+0 references
+1977 Formula One season
+0 references
+1978 Formula One season
+0 references
+1979 Formula One season
+0 references
+1980 Formula One season
+0 references
+1981 Formula One World Championship
+0 references
+1982 Formula One World Championship
+0 references
+1983 Formula One World Championship
+0 references
+1984 Formula One World Championship
+0 references
+1985 Formula One World Championship
+0 references
+1986 Formula One World Championship
+0 references
+1987 Formula One World Championship
+0 references
+1988 Formula One World Championship
+0 references
+1989 Formula One World Championship
+0 references
+1990 Formula One World Championship
+0 references
+1991 Formula One World Championship
+0 references
+1992 Formula One World Championship
+0 references
+1993 Formula One World Championship
+0 references
+1994 Formula One World Championship
+0 references
+1995 Formula One World Championship
+0 references
+1996 Formula One World Championship
+0 references
+1997 Formula One World Championship
+0 references
+1998 Formula One World Championship
+0 references
+1999 Formula One World Championship
+0 references
+2000 Formula One World Championship
+0 references
+2001 Formula One World Championship
+0 references
+2002 Formula One World Championship
+0 references
+2003 Formula One World Championship
+0 references
+2004 Formula One World Championship
+0 references
+2005 Formula One World Championship
+0 references
+2006 Formula One World Championship
+0 references
+2007 Formula One World Championship
+0 references
+2008 Formula One World Championship
+0 references
+2009 Formula One World Championship
+0 references
+2010 Formula One World Championship
+0 references
+2011 Formula One World Championship
+0 references
+2012 Formula One World Championship
+0 references
+2013 Formula One World Championship (FIA)
+0 references
+2014 Formula One World Championship
+0 references
+2015 Formula One World Championship
+0 references
+2016 Formula One World Championship
+0 references
+2017 Formula One World Championship
+0 references
+2018 Formula One World Championship
+0 references
+2019 Formula One World Championship
+0 references
+2020 Formula One World Championship
+0 references
+2021 Formula One World Championship
+0 references
+2022 Formula One World Championship
+0 references
+2023 Formula One World Championship
+0 references
+2024 Formula One World Championship
+0 references
+2025 Formula One World Championship
+0 references
+organizer
+Fédération Internationale de l'Automobile
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Wikimedia import URL
+https://fr.wikipedia.org/w/index.php?title=Formule_1&oldid=164163849
+number of participants
+20
+is a number of
+Formula One driver
+1 reference
+imported from Wikimedia project
+French Wikipedia
+Wikimedia import URL
+https://fr.wikipedia.org/w/index.php?title=Formule_1&oldid=164163849
+10
+is a number of
+Formula One team
+0 references
+statistical leader
+Michael Schumacher
+criterion used
+Formula One World Champion
+points for
+7
+0 references
+Lewis Hamilton
+criterion used
+Formula One World Champion
+points for
+7
+0 references
+Scuderia Ferrari
+criterion used
+Formula One World Champion
+Formula One constructor
+points for
+16
+0 references
+league level below
+Formula Two
+0 references
+Formula 3000
+0 references
+FIA Formula 2 Championship
+1 reference
+inferred from
+FIA Formula 2 Championship
+operator
+Formula One Group
+0 references
+official website
+https://www.formula1.com
+language of work or name
+English
+statement is subject of
+Formula One website
+0 references
+icon
+F1pictogram.svg300 × 300; 2 KB
+0 references
+page banner
+Formula One page banner.jpg2,100 × 300; 191 KB
+0 references
+practiced by
+Formula One driver
+0 references
+on focus list of Wikimedia project
+Wikipedia:Vital articles/Level/4
+point in time
+31 October 2022
+0 references
+social media followers
+5,148,112
+X numeric user ID
+69008563
+point in time
+2 January 2021
+0 references
+5,720,000±9,999
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+point in time
+3 July 2021
+0 references
+7,046,436
+X numeric user ID
+69008563
+point in time
+8 January 2022
+0 references
+7,050,000±9,999
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+point in time
+18 March 2022
+0 references
+8,952,433
+X numeric user ID
+69008563
+point in time
+2 February 2023
+0 references
+8,560,000±9,999
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+point in time
+17 February 2023
+0 references
+9,850,000±9,999
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+point in time
+16 January 2024
+1 reference
+retrieved
+16 January 2024
+stated in
+YouTube Application Programming Interface
+10,000,000±99,999
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+point in time
+2 March 2024
+1 reference
+retrieved
+2 March 2024
+stated in
+YouTube Application Programming Interface
+11,100,000±99,999
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+point in time
+28 September 2024
+1 reference
+retrieved
+28 September 2024
+stated in
+YouTube Application Programming Interface
+different from
+F1
+0 references
+Category:Formula One
+0 references
+Commons gallery
+Formula One
+1 reference
+imported from Wikimedia project
+Czech Wikipedia
+Commons category
+Formula One
+0 references
+topic's main Wikimedia portal
+Portal:Formula One
+0 references
+topic's main category
+Category:Formula One
+0 references
+Identifiers
+VIAF cluster ID
+245922962
+0 references
+Bibliothèque nationale de France ID
+12002946q
+1 reference
+imported from Wikimedia project
+French Wikipedia
+GND ID
+4267570-4
+1 reference
+imported from Wikimedia project
+German Wikipedia
+Library of Congress authority ID
+nb2012002495
+1 reference
+stated in
+Library of Congress Authorities
+retrieved
+15 July 2019
+NDL Authority ID
+00960053
+0 references
+ABC News topic ID
+formula-1
+0 references
+Baidu Tieba name
+f1
+number of works
+12,817,952
+point in time
+3 March 2023
+0 references
+Bluesky handle
+f1tv.bsky.social
+sourcing circumstances
+presumably
+0 references
+CNA topic ID
+formula-1
+1 reference
+reference URL
+https://www.channelnewsasia.com/news/topic/formula-1
+title
+FORMULA 1 latest news & coverage (English)
+retrieved
+30 March 2021
+Dagens Nyheter topic ID
+formel-1
+0 references
+Encyclopædia Britannica Online ID
+sports/Formula-One-automobile-racing
+subject named as
+Formula One
+0 references
+Encyclopædia Universalis ID
+formule-1
+0 references
+Encyclopedia of China (Third Edition) ID
+107269
+0 references
+Facebook username
+Formula1
+start time
+11 March 2016
+has characteristic
+verified badge
+0 references
+Fandom article ID
+world-sports-results:Formula_1
+language of work or name
+English
+subject named as
+Formula 1
+MediaWiki page ID
+2096
+0 references
+France 24 topic ID (French)
+formule-1
+0 references
+Freebase ID
+/m/02xz2
+1 reference
+stated in
+Freebase Data Dumps
+publication date
+28 October 2013
+Golden ID
+Formula_One-V5Y9
+1 reference
+retrieved
+10 September 2022
+reference URL
+https://golden.com/wiki/Formula_One-V5Y9
+Google News topics ID
+CAAqIQgKIhtDQkFTRGdvSUwyMHZNREo0ZWpJU0FuSjFLQUFQAQ
+0 references
+Guardian topic ID
+sport/formulaone
+0 references
+Instagram username
+f1
+has characteristic
+verified badge
+1 reference
+reference URL
+https://www.youtube.com/channel/UCB_qr75-ydFVKSF9Dmo6izg
+IPTC NewsCode
+mediatopic/20000994
+0 references
+Klexikon article ID
+Formel_1
+0 references
+Le Figaro tag ID
+Formule-1
+0 references
+Lemmy community ID
+formula1@lemmy.world
+0 references
+Lex ID
+formel_1
+0 references
+motorsportstats.com series ID
+fia-formula-one-world-championship
+0 references
+museum-digital tag ID
+13478
+0 references
+New York Times topic ID
+organization/formula-one
+0 references
+NicoNicoPedia ID
+f1世界選手権
+0 references
+Open Library subject ID
+formula_1
+0 references
+Quora topic ID
+Formula-1-1
+0 references
+Reddit topic ID
+formula_one
+1 reference
+reference URL
+https://www.reddit.com/t/formula_one/
+title
+Reddit - Dive into anything (American English)
+retrieved
+1 November 2022
+subreddit
+formula1
+language of work or name
+English
+subject named as
+Formula 1
+start time
+8 June 2008
+1 reference
+retrieved
+6 May 2018
+The Top Tens ID
+288
+0 references
+TikTok username
+f1
+0 references
+Treccani ID
+formula-1
+subject named as
+Formula 1
+0 references
+formula-1_(Il-Libro-dell'Anno)
+author name string
+Vincenzo Borgomeo
+publication date
+2001
+subject named as
+Formula 1
+0 references
+Twitter community ID
+1442988929070731268
+0 references
+Vikidia article ID
+it:Formula_1
+0 references
+es:Fórmula_1
+0 references
+fr:Formule_1
+0 references
+WhatsApp channel ID
+0029VaMCroh7oQhfpZ4mWF0W
+0 references
+WikiKids ID
+Formule_1
+0 references
+X list ID
+198581248
+0 references
+X topic ID
+854701577994616832
+subject named as
+Formula 1
+1 reference
+archive URL
+https://web.archive.org/web/20210221120801/https://twitter.com/i/api/1.1/onboarding/task.json?flow_name=topics_selector
+archive date
+21 February 2021
+X (Twitter) username
+F1
+start time
+August 2009
+has characteristic
+verified account or profile
+X numeric user ID
+69008563
+1 reference
+retrieved
+10 May 2018
+Yle topic ID
+18-173265
+0 references
+YouTube channel ID
+UCB_qr75-ydFVKSF9Dmo6izg
+has characteristic
+verified badge
+subject named as
+FORMULA 1
+number of subscribers
+4,630,000
+number of works
+3,423
+number of viewers/listeners
+2,390,505,886
+start time
+29 December 2005
+point in time
+2 December 2020
+0 references
+YSO ID
+19145
+subject named as
+Formula 1 -luokka
+Formel 1
+Formula one
+1 reference
+stated in
+YSO-Wikidata mapping project
+retrieved
+8 July 2022
+ 
+Sitelinks
+Wikipedia(113 entries)
+afwiki
+Formule Een
+anwiki
+Formula 1
+arwiki
+فورمولا 1
+astwiki
+Fórmula 1
+azwiki
+Formula 1
+barwiki
+Formel 1
+be_x_oldwiki
+Формула-1
+bewiki
+Формула-1
+bewwiki
+Formula 1
+bgwiki
+Формула 1
+bnwiki
+ফর্মুলা ওয়ান
+brwiki
+Formulenn 1
+bswiki
+Formula 1
+cawiki
+Fórmula 1
+ckbwiki
+فۆرمولا یەک
+cswiki
+Formule 1
+cvwiki
+Формула-1
+cywiki
+Fformiwla Un
+dawiki
+Formel 1
+dewiki
+Formel 1
+dvwiki
+ފަންވަތް:F1
+elwiki
+Φόρμουλα 1
+enwiki
+Formula One
+eowiki
+Formulo 1
+eswiki
+Fórmula 1
+etwiki
+Vormel 1
+euwiki
+1 Formula
+fawiki
+فرمول یک
+fiwiki
+Formula 1
+fowiki
+Formel 1
+frwiki
+Formule 1
+fywiki
+Formule 1
+gawiki
+Foirmle a hAon
+gdwiki
+Foirmle a h-Aon
+glwiki
+Fórmula 1
+hewiki
+פורמולה 1
+hiwiki
+फ़ॉर्मूला वन
+hrwiki
+Formula 1
+huwiki
+Formula–1
+hywiki
+Ֆորմուլա 1
+hywwiki
+Ֆորմիւլա 1
+idwiki
+Formula Satu
+iewiki
+Formul Un
+igwiki
+Usoro nke Mbụ
+iowiki
+Formulo 1
+iswiki
+Formúla 1
+itwiki
+Formula 1
+jawiki
+フォーミュラ1
+jvwiki
+Formula Siji
+kawiki
+ფორმულა ერთი
+kkwiki
+Формула-1
+knwiki
+ಫಾರ್ಮುಲಾ ಒನ್
+kowiki
+포뮬러 원
+lawiki
+Formula 1
+lbwiki
+Formel 1
+liwiki
+Formule 1
+lmowiki
+Formula 1
+ltwiki
+Formulė 1
+lvwiki
+Formula 1
+minwiki
+Formula Satu
+mkwiki
+Формула 1
+mlwiki
+ഫോർമുല വൺ
+mnwiki
+Формула-1
+mrwiki
+फॉर्म्युला वन
+mswiki
+Formula Satu
+mtwiki
+Formula 1
+mwlwiki
+Fórmula 1
+mywiki
+ဖော်မြူလာ ဝမ်း
+mznwiki
+فرمول یک
+nahwiki
+Formula 1
+newwiki
+फर्मुला वान
+nlwiki
+Formule 1
+nnwiki
+Formel 1
+nowiki
+Formel 1
+ocwiki
+Formula 1
+orwiki
+ଫର୍ମୁଲା ୱାନ୍
+papwiki
+Formula 1
+pawiki
+ਫ਼ਾਰਮੂਲਾ ਵਨ
+plwiki
+Formuła 1
+pnbwiki
+فارمولا ون
+ptwiki
+Fórmula 1
+rmwiki
+Furmla 1
+rowiki
+Formula 1
+ruwiki
+Формула-1
+scnwiki
+Fòrmula 1
+scowiki
+Formula Ane
+shwiki
+Formula 1
+simplewiki
+Formula 1
+skwiki
+Formula 1
+slwiki
+Formula 1
+sqwiki
+Formula Një
+srwiki
+Формула 1
+stqwiki
+Formel 1
+suwiki
+Formula Hiji
+svwiki
+Formel 1
+swwiki
+Mbio za Langalanga
+tawiki
+பார்முலா 1
+tgwiki
+Формула 1
+thwiki
+ฟอร์มูลาวัน
+tlwiki
+Formula One
+trwiki
+Formula 1
+ttwiki
+Formula-1
+ukwiki
+Формула-1
+urwiki
+فارمولا ون
+uzwiki
+Formula Bir
+vecwiki
+Formula 1
+viwiki
+Công thức 1
+vlswiki
+Formule 1
+wuuwiki
+一级方程式赛车
+yowiki
+Formula One
+zh_min_nanwiki
+Formula 1
+zh_yuewiki
+一級方程式
+zhwiki
+一级方程式赛车
+Wikibooks(0 entries)
+Wikinews(19 entries)
+arwikinews
+تصنيف:فورمولا 1
+cawikinews
+Categoria:Fórmula 1
+cswikinews
+Kategorie:Formule 1
+dewikinews
+Kategorie:Formel 1
+enwikinews
+Category:Formula One
+eswikinews
+Categoría:Fórmula 1
+fiwikinews
+Luokka:Formula 1
+frwikinews
+Catégorie:Formule 1
+huwikinews
+Kategória:Formula–1
+itwikinews
+Categoria:Formula 1
+jawikinews
+カテゴリ:フォーミュラ1
+nlwikinews
+Categorie:Formule 1
+plwikinews
+Kategoria:Formuła 1
+ptwikinews
+Categoria:Fórmula 1
+rowikinews
+Categorie:Formula 1
+ruwikinews
+Категория:Формула-1
+svwikinews
+Kategori:Formel 1
+trwikinews
+Kategori:Formula 1
+ukwikinews
+Категорія:Формула-1
+Wikiquote(3 entries)
+itwikiquote
+Formula 1
+plwikiquote
+Formuła 1
+ptwikiquote
+Fórmula 1
+Wikisource(0 entries)
+Wikiversity(0 entries)
+Wikivoyage(2 entries)
+enwikivoyage
+Formula One
+hewikivoyage
+פורמולה 1
+Wiktionary(0 entries)
+Multilingual sites(1 entry)
+commonswiki
+Formula One
+Retrieved from "https://www.wikidata.org/w/index.php?title=Q1968&oldid=2326245172"
+ This page was last edited on 17 March 2025, at 12:58.
+All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About Wikidata
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Data access
+Search
+Search
+Formula One
+(Q1968)
+Add topic

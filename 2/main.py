@@ -14,7 +14,6 @@ mystem = Mystem()
 
 
 def is_valid_word(lemma: str) -> bool:
-    """Проверяет, является ли слово валидным (только буквы и допустимые дефисы)"""
     return bool(re.fullmatch(r'^[а-яёa-z-]+$', lemma, flags=re.IGNORECASE)) and lemma.strip('-')
 
 

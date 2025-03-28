@@ -1,0 +1,84 @@
+Просмотр кода страницы Формула-1 — Википедия Просмотр кода страницы Формула-1 ← Формула-1 Перейти к навигации Перейти к поиску У вас нет прав на выполнение действия «редактирование этой страницы» по следующей причине: Ваш диапазон IP-адресов заблокирован . Вы не можете править Википедию, но можете продолжать читать её. Просмотреть вики-текст страницы можно в текстовом поле ниже. Причина блокировки Этот IP-адрес принадлежит хостинговой компании и, скорее всего, является открытым прокси . Пожалуйста, для редактирования Википедии используйте своего обычного интернет-провайдера. Информация о блокировке Заблокирован 84.19.22.0/24 администратором ‪QBA-bot‬ в 20:05, 12 ноября 2024. Блокировка закончится в 20:05, 12 ноября 2029 ( по часовому поясу UTC ). Ваш IP-адрес — 84.19.22.77 , технический номер блокировки — #28030611 . Ваш диапазон заблокирован за вандализм? Диапазоны адресов интернет-провайдеров могут блокироваться из-за упорного совершения неконструктивных правок отдельными пользователями провайдера. Если вы встречаетесь с этим часто, лучше всего будет зарегистрироваться , сейчас или после окончания блокировки (в зависимости от того, позволяют ли вам зарегистрироваться текущие настройки блокировки). Ваш диапазон заблокирован как прокси? проверьте, отключены ли прокси в настройках браузера или компьютера; если вы уверены, что не пользуетесь прокси, воспользуйтесь кнопкой ниже, чтобы запросить разблокировку . Запросить разблокировку Вы можете просмотреть и скопировать исходный код этой страницы. === Хронология ===
+{| class="wikitable sortable mw-collapsible"
+|+Хронология команд сезона 2024
+! width=1% |
+! width=5% | [[1950-е годы|1950-е]]
+! colspan=2 width=10% | [[1960-е годы|1960-е]]
+! colspan=2 width=10% | [[1970-е годы|1970-е]]
+! colspan=4 width=15% | [[1980-е годы|1980-е]]
+! colspan=5 width=15% | [[1990-е годы|1990-е]]
+! colspan=7 width=15% | [[2000-е годы|2000-е]]
+! colspan=5 width=15% | [[2010-е годы|2010-е]]
+! colspan=5 width=5% | [[2020-е годы|2020-е]]
+|- bgcolor=#F0F0F0
+|#
+| width=2% | {{nobreak|0—9}} <!-- [[1950-е годы|1950-е]] -->
+| width=2% | {{nobreak|0—5}} || width=2% | {{nobreak|6—9}} <!-- [[1960-е годы|1960-е]] -->
+| width=2% | {{nobreak|0—6}} || width=2% | {{nobreak|7—9}} <!-- [[1970-е годы|1970-е]] -->
+| width=1% | 0 || width=2% | {{nobreak|1—4}} || width=1% | 5 || width=2% | {{nobreak|6—9}} <!-- [[1980-е годы|1980-е]] -->
+| width=1% | 0 || width=2% | {{nobreak|1—2}} || width=2% | {{nobreak|3—6}} || width=2% | {{nobreak|7—8}} || width=1% | 9 <!-- [[1990-е годы|1990-е]] -->
+| width=2% | {{nobreak|0—1}} || width=2% | {{nobreak|2—4}} || width=1% | 5 || width=1% | 6 || width=1% | 7 || width=1% | 8 || width=1% | 9 <!-- [[2000-е годы|2000-е]] -->
+| width=2% | {{nobreak|0—1}} || width=3% | {{nobreak|2—5}} || width=2% | {{nobreak|6—7}} || width=1% | 8 || width=1% | 9 <!-- [[2010-е годы|2010-е]] -->
+| width=1% | 0 || width=2% | {{nobreak|1—3}} || width=2% | 5 <!-- [[2020-е годы|2020-е]] -->
+|- bgcolor=#E0E0E0
+|1
+| colspan="30" style="color: white; background-color: #C00202" | [[Феррари (команда Формулы-1)|<span style="color: #FFFFFF; font-size:medium;">Ferrari</span>]] (c 1950)
+|- bgcolor=#E0E0E0
+|2
+| colspan="2" | || colspan="28" style="color: black; background-color: #fec304" | [[Макларен (автогоночная команда)|<span style="color: black; font-size:medium;">McLaren</span>]] (c 1966)
+|- bgcolor="#E0E0E0"
+|3
+| colspan="3" |
+| colspan="10" style="color: white; background-color: #324d9c" | [[Тиррелл (команда Формулы-1)|<span style="color: white; font-size:medium;">Tyrrell</span>]] (1970—1998)
+| colspan="4" style="color: white; background-color: #ab2723" |[[BAR (команда Формулы-1)|<span style="color: white; font-size:medium;">BAR</span>]] (1999—2005)
+| colspan="3" style="color: #b9314f; background-color: white" |[[Хонда (команда Формулы-1, 2006—2008)|<span style="color: #b9314f; font-size:medium;">Honda</span>]] (2006—2008)
+| colspan="1" style="color: black; background-color: white" |[[Браун (команда Формулы-1)|<span style="color: black; font-size:medium;">Brawn</span>]] (2009)
+| colspan="9" style="color: black; background-color: #8c9cac" |[[Мерседес (команда Формулы-1, 2010)|<span style="color: black; font-size:medium;">Mercedes</span>]] (c 2010)
+|- bgcolor="#E0E0E0"
+|4
+| colspan="4" |
+| colspan="26" style="color: white; background-color: #003f8c" | [[Уильямс (команда Формулы-1)|<span style="color: white; font-size:medium;">Williams</span>]] (c 1977)
+|- bgcolor="#E0E0E0"
+|5
+| colspan="6" |
+| colspan="2" style="color: white; background-color: #1f357e" | [[Тоулмен (команда Формулы-1)|<span style="color: white; font-size:medium;">Toleman</span>]] (1981—1985)
+| colspan="7" style="color: white; background-color: #008860" |[[Бенеттон (команда Формулы-1)|<span style="color: white; font-size:medium;">Benetton</span>]] (1986—2001)
+| colspan="7" style="background-color: #F4B60D" |[[Рено (команда Формулы-1, 2002—2011)|<span style="color: black; font-size:medium;">Renault</span>]] (2002—2011)
+| colspan="1" style="color: #F3D47B; background-color: #000000" |[[Лотус (команда Формулы-1, 2012—2015)|<span style="color: #F3D47B; font-size:medium;">Lotus</span>]] (2012—2015)
+| colspan="4" style="background-color: #F4B60D" |[[Рено (команда Формулы-1, 2016—2020)|<span style="color: black; font-size:medium;">Renault</span>]] (2016—2020)
+| colspan="3" style="color: #FFFFFF; background-color: #005BA9" |[[Альпин (команда Формулы-1)|<span style="color: #FFFFFF; font-size:medium;">Alpine</span>]] (c 2021)
+|- bgcolor="#E0E0E0"
+|6
+| colspan="7" |
+| colspan="10" style="color: #fce001; background-color: #060600" | [[Минарди (команда Формулы-1)|<span style="color: #fce001; font-size:medium;">Minardi</span>]] (1985—2005)
+| colspan="9" style="color: #a2a4b0; background-color: #1708a1" |[[Торо Россо|<span style="color: #a2a4b0; font-size:medium;">Toro Rosso</span>]] (2006—2019)
+| colspan="2" style="color: #ffffff; background-color: #00293F" |[[Альфа Таури (команда Формулы-1)|<span style="color: #ffffff; font-size:medium;">Alpha Tauri</span>]] (2020—2023)
+| colspan="1" style="color: #a2a4b0; background-color: #1708a1" |[[Рейсинг Буллз|<span style="color: #a2a4b0; font-size:medium;">Racing Bulls</span>]] (c 2024)
+|- bgcolor="#E0E0E0"
+|7
+| colspan="10" |
+| colspan="7" style="background-color: #F7E500" | [[Джордан (команда Формулы-1)|<span style="color: #000000; font-size:medium;">Jordan</span>]] (1991—2005)
+| colspan="1" style="color: white; background-color: #FF271E" |[[Мидланд (команда Формулы-1)|<span style="color: #FFFFFF; font-size:medium;">Midland</span>]] (2006)
+| colspan="1" style="color: #211917; background-color: #FF5811" |[[Спайкер (команда Формулы-1)|<span style="color: #211917; font-size:medium;">Spyker</span>]] (2007)
+| colspan="5" style="color: white; background-color: #FF671F" |[[Форс Индия|<span style="color: white; font-size:medium;">Force India</span>]] (2008—2018)
+| colspan="3" style="color: #112164; background-color: #d374ba" |[[Рейсинг Пойнт|<span style="color: #112164; font-size:medium;">Racing Point</span>]] (2018—2020)<ref>{{Cite news|title=Force India reborn as Racing Point|url=http://www.skysports.com/f1/news/12477/11457389/force-india-reborn-as-racing-point|work=Sky Sports|accessdate=2018-08-25|lang=en|archivedate=2018-08-24|archiveurl=https://web.archive.org/web/20180824183555/http://www.skysports.com/f1/news/12477/11457389/force-india-reborn-as-racing-point}}</ref>
+| colspan="3" style="color: #FFFFFF; background-color: #004225" |[[Астон Мартин (команда Формулы-1, 2021)|<span style="color: #FFFFFF; font-size:medium;">Aston Martin</span>]] (с 2021)
+|- bgcolor=#E0E0E0
+|8	
+| colspan="11" |
+| colspan="6" style="color: white; background-color: #38373d" | [[Заубер|<span style="color: white; font-size:medium;">Sauber</span>]] (1993—2005)
+| colspan="4" style="color: white; background-color: #152d87" | [[BMW Sauber|<span style="color: white; font-size:medium;">BMW Sauber</span>]] (2006—2009)
+| colspan="4" style="color: white; background-color: #38373d" | [[Заубер|<span style="color: white; font-size:medium;">Sauber</span>]] (2010—2018)
+| colspan="3" style="color: white; background-color: #EC0046" | [[Альфа Ромео (команда Формулы-1, 2019)|<span style="color: white; font-size:medium;">Alfa Romeo</span>]] (2019—2023)
+| colspan="4" style="color: white; background-color: #38373d" | [[Заубер|<span style="color: white; font-size:medium;">Sauber</span>]] (с 2024)
+|- bgcolor=#E0E0E0
+|9
+| colspan="12" |
+| colspan="2" style="color: #080D23; background-color: white" | [[Стюарт (команда Формулы-1)|<span style="color: #080D23; font-size:medium;">Stewart</span>]] (1997—1999)
+| colspan="2" style="color: white; background-color: green" | [[Ягуар (команда Формулы-1)|<span style="color: #FFFFFF; font-size:medium;">Jaguar</span>]] (2000—2004)
+| colspan="14" style="color: #DE0000; background-color: #001D46" | [[Ред Булл (команда Формулы-1)|<span style="color: #DE0000; font-size:medium;">Red Bull</span>]] (c 2005)
+|- bgcolor=#E0E0E0
+|10
+| colspan="23" |
+| colspan="7" style="color: red; background-color: white" |[[Хаас (команда Формулы-1)|<span style="color: red; font-size:medium;">Haas</span>]] (c 2016)
+|} Возврат к странице Формула-1 . Источник — https://ru.wikipedia.org/wiki/Формула-1 Навигация Персональные инструменты Вы не представились системе Обсуждение Вклад Создать учётную запись Войти Пространства имён Статья Обсуждение русский Просмотры Читать Править Править код История Ещё Поиск Навигация Заглавная страница Содержание Избранные статьи Случайная статья Текущие события Пожертвовать Участие Сообщить об ошибке Как править статьи Сообщество Форум Справка Свежие правки Новые страницы Служебные страницы Инструменты Ссылки сюда Связанные правки Сведения о странице Получить короткий URL Скачать QR-код Печать/экспорт В других проектах Элемент Викиданных На других языках Политика конфиденциальности Описание Википедии Отказ от ответственности Свяжитесь с нами Кодекс поведения Разработчики Статистика Заявление о куки Мобильная версия

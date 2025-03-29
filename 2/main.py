@@ -27,7 +27,6 @@ def process_file(directory: str, file_name: str) -> Tuple[str, List[str]]:
         tokens = word_tokenize(text, language="russian")
         
         for word in tokens:
-            # Лемматизируем слово и берем первую лемму (обычно это основная)
             lemmas = [lem for lem in mystem.lemmatize(word) if lem.strip()]
             if not lemmas:
                 continue

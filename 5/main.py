@@ -6,6 +6,7 @@ import pandas as pd
 from pymystem3 import Mystem
 from sklearn.metrics.pairwise import cosine_similarity
 
+
 mystem = Mystem()
 
 PRECISION = 6

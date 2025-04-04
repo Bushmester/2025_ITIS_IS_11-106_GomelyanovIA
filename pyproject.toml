@@ -6,8 +6,10 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "bs4>=0.0.2",
+    "four>=0.0.8",
     "nltk>=3.9.1",
     "pandas>=2.2.3",
     "pymystem3>=0.2.0",
     "requests>=2.32.3",
+    "scikit-learn>=1.6.1",
 ]

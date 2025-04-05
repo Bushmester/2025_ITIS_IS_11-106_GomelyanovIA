@@ -57,19 +57,6 @@ if __name__ == '__main__':
     idf = compute_idf(corpus)
     tf_idf = compute_tf_idf(tf, idf)
 
-    with open('result.txt', mode='w') as file:
-        file.write("TF (Term Frequency):\n")
-        for file_name, tf_vals in sorted(tf.items()):
-            file.write(f"{file_name} - {', '.join([f'{word}: {freq}' for word, freq in tf_vals.items()])}\n")
-
-        file.write("\nIDF (Inverse Document Frequency):\n")
-        for word, freq in sorted(idf.items()):
-            file.write(f"{word} - {freq}\n")
-
-        file.write("\nTF-IDF:\n")
-        for file_name, tf_idf_vals in sorted(tf_idf.items()):
-            file.write(f"{file_name} - {', '.join([f'{word}: {freq}' for word, freq in tf_idf_vals.items()])}\n")
-
     tf_df = pd.DataFrame(tf).fillna(0).round(PRECISION)
     idf_df = pd.DataFrame(idf.items(), columns=['Word', 'IDF']).set_index('Word')
 

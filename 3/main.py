@@ -114,6 +114,9 @@ if __name__ == "__main__":
         f"{word1} & !{word2} | !{word3}",
         f"{word1} |  {word2} |  {word3}",
         f"{word1} | !{word2} | !{word3}",
-        f"{word1} &  {word2} &  {word3}"
+        f"{word1} &  {word2} &  {word3}",
+        f"{word1} &  {word2} &  !{word3}",
+        f"{word1} &  !{word2} &  {word3}",
+        f"{word1} &  {word2} |  {word3}",
     ]
     save_to_file(inverted_index, queries)

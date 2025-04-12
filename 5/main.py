@@ -1,6 +1,7 @@
 import math
 import os
 from collections import Counter, defaultdict
+from typing import List
 
 import pandas as pd
 from pymystem3 import Mystem
@@ -78,8 +79,13 @@ def compute_cosine_similarity(doc_vector: dict[str, float], query_vector:  dict[
     return cosine_similarity([doc_vector], [query_vector])[0][0]
 
 
-def vector_search_multi(queries: [str], tf_idf: dict[str, dict[str, float]], idf: dict[str, float],
-                        total_docs_count: int, output_txt_file: str, output_csv_file: str):
+def vector_search_multi(
+    queries: List[str], 
+    tf_idf: dict[str, dict[str, float]], 
+    idf: dict[str, float],
+    total_docs_count: int, 
+    output_csv_file: str
+):
     results = []
     for query in queries:
         query_vector = query_to_vector(query, idf, total_docs_count)
@@ -95,7 +101,7 @@ def vector_search_multi(queries: [str], tf_idf: dict[str, dict[str, float]], idf
 
     results_df = pd.DataFrame(results)
     results_df.to_csv(output_csv_file, index=False)
-    print(f"Результаты поиска сохранены в {output_txt_file} и {output_csv_file}.")
+    print(f"Результаты поиска сохранены в {output_csv_file}.")
 
 
 if __name__ == '__main__':

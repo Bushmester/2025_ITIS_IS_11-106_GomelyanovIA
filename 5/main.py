@@ -62,9 +62,7 @@ def query_to_vector(query: str, idf: dict[str, float], total_docs_count: int):
 
     for word, count in words_counter.items():
         tf = count / query_length
-        # Если слово не в IDF, используем минимальный IDF
-        word_idf = idf.get(word, math.log10(total_docs_count))
-        query_vector[word] = tf * word_idf
+        query_vector[word] = tf * idf.get(word, 0)
 
     return query_vector
 
@@ -116,6 +114,5 @@ if __name__ == '__main__':
     tf_idf = compute_tf_idf(tf, idf)
 
     queries = ['хэмилтон', 'хэмилтон макларен', 'хэмилтон макларен кубок']
-    output_txt = 'vector_search.txt'
     output_csv = 'vector_search.csv'
-    vector_search_multi(queries, tf_idf, idf, len(corpus), output_txt, output_csv)
+    vector_search_multi(queries, tf_idf, idf, len(corpus), output_csv)

@@ -101,7 +101,7 @@ def vector_search_multi(
 
     results_df = pd.DataFrame(results)
     results_df.to_csv(output_csv_file, index=False)
-    print(f"Результаты поиска сохранены в {output_csv_file}.")
+    print(f"Результаты поиска сохранены в {output_csv_file}")
 
 
 if __name__ == '__main__':
